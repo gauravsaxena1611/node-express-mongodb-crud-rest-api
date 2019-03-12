@@ -1,0 +1,31 @@
+{
+  "name": "express-mongodb-crud-rest-api",
+  "version": "1.0.0",
+  "description": "In this tutorial, We will be building a simple Note-Taking application. We will build Rest APIs for creating, listing, editing and deleting a Note.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravsaxena1611/node-express-mongodb-crud-rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Gaurav Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravsaxena1611/node-express-mongodb-crud-rest-api/issues"
+  },
+  "homepage": "https://github.com/gauravsaxena1611/node-express-mongodb-crud-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10"
+  }
+}
